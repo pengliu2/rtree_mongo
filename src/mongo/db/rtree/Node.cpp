@@ -7,6 +7,7 @@
 
 #pragma warning(disable:4996) // vs weird error
 
+#include <algorithm>
 #include "Entry.h"
 #include <iostream>
 #include "BoundingBox.h"
